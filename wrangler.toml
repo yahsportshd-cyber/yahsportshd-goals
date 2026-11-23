@@ -1,0 +1,7 @@
+name = "yahsportshd-goals"
+main = "worker.js"
+compatibility_date = "2026-11-22"
+
+[[kv_namespaces]]
+binding = "GOALS_KV"
+id = "04902732d1394ce18703833fd352af6b"
